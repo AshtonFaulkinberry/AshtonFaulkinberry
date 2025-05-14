@@ -3,4 +3,4 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>JavaScript</b>
-  - [Physics sim](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
+  - [Physics sim](https://github.com/AshtonFaulkinberry/Physic-web-page/Physics.html)</i>
