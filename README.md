@@ -3,4 +3,4 @@
 <h2>Software Development Projects:</h2>
 
 - <b>JavaScript</b>
-  - [Physics sim](https://ashtonfaulkinberry.github.io/Physics_web_page/)</i> [Physics sim code](https://github.com/AshtonFaulkinberry/Physics_web_page)</i>
+  - [Physics sim](https://ashtonfaulkinberry.github.io/Physics_web_page/)</i>    [code](https://github.com/AshtonFaulkinberry/Physics_web_page)</i>
