@@ -4,3 +4,4 @@
 
 - <b>JavaScript</b>
   - [Physics sim](https://ashtonfaulkinberry.github.io/Physics_web_page/)</i> |  [code](https://github.com/AshtonFaulkinberry/Physics_web_page)</i>
+  - [Physics sim](https://ashtonfaulkinberry.github.io/Pool_web_page/)</i> |  [code](https://github.com/AshtonFaulkinberry/Physics_web_page)</i>
